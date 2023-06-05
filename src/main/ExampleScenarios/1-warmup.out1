@@ -1,0 +1,32 @@
+First fit
+Allocated blocks
+1;1000;1499
+Free blocks
+0;999
+1500;1999
+Fragmentation
+0.333333
+Errors
+None
+
+Best fit
+Allocated blocks
+1;1000;1499
+Free blocks
+0;999
+1500;1999
+Fragmentation
+0.333333
+Errors
+None
+
+Worst fit
+Allocated blocks
+1;1000;1499
+Free blocks
+0;999
+1500;1999
+Fragmentation
+0.333333
+Errors
+None
