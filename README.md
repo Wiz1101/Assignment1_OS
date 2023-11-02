@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 (OS)
 This is a java console application to simulate memory managment (Allocation - Deallocation - Defragmentation).
 ## I/O .in files can be found in the outputs package.
 
